@@ -1,5 +1,5 @@
 # Basic Understanding..
-## Things before we need to start this project,
+## Before starting this project,
 
 ## Should be Familiar with
 
