@@ -27,5 +27,6 @@
 ```sh
 Server http://localhost:8080/api/users
 Client  http://localhost:3000/ 
+H2 Database http://localhost:8080/h2
 ```
 
